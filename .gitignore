@@ -1,0 +1,3 @@
+predict/saving_code/*
+web_version/bvlc_alexnet.npy
+data/pretrain_model.npy
